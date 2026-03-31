@@ -19,7 +19,7 @@ Recipy is a **Flask-based web application** that suggests recipes based on the i
 This project was developed under the guidance of **Prof. Santanoo Patnaik**, CEO of **SanSoft Technologies Pvt. Ltd.**, as part of a **summer internship**.
 
 ## 🌐 Live Deployment
-👉 **Visit the live app here**: [Recipy on Render](https://recipy-vc0t.onrender.com/)
+👉 **Visit the live app here**: [Recipe-Genie on Render](https://recipe-genie-gfcu.onrender.com)
 
 ## Note
 This project was originally developed as part of a team internship. This repository is a personal version created to showcase my contribution and understanding.
