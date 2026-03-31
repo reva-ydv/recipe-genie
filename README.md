@@ -1,4 +1,4 @@
-# 📌 Recipy - AI-Powered Recipe Recommendation System
+# 📌 Recipe_Genie - AI-Powered Recipe Recommendation System
 
 Recipy is a **Flask-based web application** that suggests recipes based on the ingredients you have. It also provides **allergen-free alternatives** using machine learning techniques. Built as part of a **summer internship after the first year**, this project showcases a **practical implementation of AI in food technology**.
 
